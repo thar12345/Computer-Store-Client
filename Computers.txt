@@ -1,0 +1,140 @@
+Acer Aspire XC Desktop PC
+11
+Acer
+8
+1024
+2.0
+470
+ASUS ROG Strix G35DX Gaming PC
+63
+Asus
+32
+3072
+3.7
+5300
+Apple Mac Studio
+99
+Apple
+64
+1024
+3.2
+5000
+HP All-in-One Desktop PC
+91
+HP
+8
+1024
+3.4
+750
+MSI Desktop PC
+32
+MSI
+16
+256
+3.8
+1050
+Acer Predator Gaming PC
+43
+Acer
+16
+512
+2.6
+1500
+Acer Nitro 50 Gaming PC
+29
+Acer
+12
+1024
+2.6
+1200
+Acer Aspire C 24" All-in-One PC
+13
+Acer
+8
+512
+3.0
+850
+ASUS S500MC Desktop PC
+76
+Asus
+8
+512
+2.6
+900
+ASUS VivoMini VC66-C Mini PC
+54
+Asus
+8
+256
+3.0
+750
+ASUS ProArt Station PD5 Desktop PC
+83
+Asus
+32
+512
+2.5
+2300
+Apple Mac mini
+22
+Apple
+8
+256
+3.2
+900
+Apple iMac i3
+71
+Apple
+8
+1024
+3.6
+1500
+Apple iMac i5
+88
+Apple
+8
+256
+3.1
+2400
+HP OMEN 25L Gaming PC
+09
+HP
+16
+512
+3.9
+1800
+HP Pavilion 27" All-in-One PC
+75
+HP
+16
+512
+1.8
+1500
+HP ENVY 34" All-in-One PC
+69
+HP
+16
+1024
+2.5
+3000
+MSI Pro AP241
+55
+MSI
+4
+120
+4.1
+700
+MSI Aegis R Gaming PC
+82
+MSI
+16
+1024
+2.1
+2500
+MSI Modern Touchscreen 24" All-in-One PC
+50
+MSI
+8
+256
+2.4
+1300

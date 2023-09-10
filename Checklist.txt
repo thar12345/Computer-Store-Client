@@ -1,0 +1,20 @@
+Example of where each is done
+
+1D and/or 2D Lists - Admin.Py Line 117
+Abstraction - No specific location
+Encapsulation - Privatized data fields
+Inheritance - main.py, Line 88, 95
+Polymorphism (methods overriding  and overloading) - Admin.py Line 100 (login)
+Recursion - Store.py, Line 50
+Sorting algorithm - Store.py, Line 383
+Searching algorithm - Store.py, Line 107
+Graphical User Interface (optional) - None
+
+User login with username and password - Done
+Users can add a review to a product (saved to the database) - Done
+Users can delete and modify their own review of a product (saved to the database) - Done
+Users can view a product, all its information and its reviews. - Done
+Users can view suggested books - Done
+Allow a user to add a new book - Done
+Must have starting data for the users (at least 5) and books (at least 20). - Done
+Add administrator access to admit new customers with assigned passwords. The administrator may have the ability to request overall statistics about the system. - Done

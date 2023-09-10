@@ -1,0 +1,26 @@
+LEGEND Computers.txt:
+Name
+SKU
+Manufacturer
+RAM Size
+Storage Size
+Processor Speed
+Price
+
+LEGEND User.txt
+Name
+email
+username
+password
+
+LEGEND Ratings.txt
+Username
+Product ID
+Num rating out of 10
+Comments
+
+LEGEND StoresStats.txt
+Total Users
+Total Computers
+Total Sales
+Total Product Views
